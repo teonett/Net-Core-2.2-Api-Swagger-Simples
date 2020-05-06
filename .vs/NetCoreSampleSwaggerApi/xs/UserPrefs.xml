@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{4CC2E3B6-F22D-497A-8AF0-D5EAEE782DBD}|Default">
+  <MonoDevelop.Ide.ItemProperties.NetCoreSampleSwaggerApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NetCoreSampleSwaggerApi" expanded="True">
+            <Node name="NetCoreSampleSwaggerApi" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

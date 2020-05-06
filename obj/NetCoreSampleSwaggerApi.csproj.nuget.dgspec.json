@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/teontt/Projects/upload/NetCoreSampleSwaggerApi/NetCoreSampleSwaggerApi.csproj": {}
+  },
+  "projects": {
+    "/Users/teontt/Projects/upload/NetCoreSampleSwaggerApi/NetCoreSampleSwaggerApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/teontt/Projects/upload/NetCoreSampleSwaggerApi/NetCoreSampleSwaggerApi.csproj",
+        "projectName": "NetCoreSampleSwaggerApi",
+        "projectPath": "/Users/teontt/Projects/upload/NetCoreSampleSwaggerApi/NetCoreSampleSwaggerApi.csproj",
+        "packagesPath": "/Users/teontt/.nuget/packages/",
+        "outputPath": "/Users/teontt/Projects/upload/NetCoreSampleSwaggerApi/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/teontt/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
